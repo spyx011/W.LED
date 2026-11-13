@@ -11,6 +11,8 @@ A keychain PCB with 13 blue LEDs in the shape of a W. It runs on a small LiPo ba
 - Boost converter for 5V
 - Slide switch and a push button
 - My logo on the back
+- <img width="889" height="609" alt="image" src="https://github.com/user-attachments/assets/856927a4-636e-4f4a-b717-70fb4c201962" />
+
 <img width="546" height="267" alt="Screenshot 2026-11-12 232018" src="https://github.com/user-attachments/assets/937c5b25-1ed3-4e88-9f21-7a4a12fbd90d" />
 
 ## Board
