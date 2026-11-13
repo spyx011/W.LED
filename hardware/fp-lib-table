@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "w.test") (type "KiCad") (uri "C:/Users/ThinkPad/Pictures/w.test.pretty") (options "") (descr ""))
+)
