@@ -11,17 +11,13 @@ A keychain PCB with 13 blue LEDs in the shape of a W. It runs on a small LiPo ba
 - Boost converter for 5V
 - Slide switch and a push button
 - My logo on the back
-- <img width="889" height="609" alt="image" src="https://github.com/user-attachments/assets/856927a4-636e-4f4a-b717-70fb4c201962" />
-
-<img width="546" height="267" alt="Screenshot 2026-11-12 232018" src="https://github.com/user-attachments/assets/937c5b25-1ed3-4e88-9f21-7a4a12fbd90d" />
 
 ## Board
 
 - 4 layers, 1.6mm, black solder mask
 - Made in KiCad 10
 - LEDs on the front, everything else on the back
-<img width="710" height="422" alt="Screenshot 2026-11-13 085147" src="https://github.com/user-attachments/assets/851041fe-ec88-47a0-a287-1c1849d7431f" />
-
+- 
 ## How the LEDs work
 
 The ATtiny sends data to the two 74HC595 chips. They feed the ULN2003A chips, and those turn the LEDs on and off.
@@ -50,4 +46,3 @@ Open `w.led.kicad_pro` in KiCad to see the design.
 ## Ordering
 
 Pick 4 layers, 1.6mm, black solder mask. Use a LiPo with a protection board, because the charger chip doesn't protect the battery.
-<img width="1269" height="780" alt="image" src="https://github.com/user-attachments/assets/be7b7fe5-e40b-43a4-b5da-a6692a670bb8" />
